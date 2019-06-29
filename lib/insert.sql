@@ -1,0 +1,10 @@
+INSERT INTO bears (name, age, gender, color, temperament, alive)
+VALUES
+("Mr. Chocolate",3,"male","brown","whimsical",1)
+,("Rowdy",1,"male","brown","rowdy",1)
+,("Tabitha",2,"female","brown","whimsical",1)
+,("Sergeant Brown",5,"male","brown","serious",1)
+,("Melissa",3,"female","black","studious",1)
+,("Grinch",5,"male","brown","pedantic",1)
+,("Wendy",8,"female","brown","serious",1)
+,(null,6,"male","brown","whimsical",1)
